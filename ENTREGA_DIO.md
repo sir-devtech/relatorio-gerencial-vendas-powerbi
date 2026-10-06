@@ -1,6 +1,6 @@
 # Texto para entrega na DIO
 
-## Repositório (preencher após o push)
+## Repositório
 
 ```
 https://github.com/sir-devtech/relatorio-gerencial-vendas-powerbi
