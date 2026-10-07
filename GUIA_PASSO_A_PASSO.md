@@ -9,7 +9,7 @@ Siga nesta ordem no **Power BI Desktop**.
 3. Abra: `desafio-relatorio-gerencial-vendas\dataset\Financial Sample.xlsx`
 4. Marque **financials** → **Load / Carregar**
 5. **Arquivo → Salvar como** →  
-   `desafio-relatorio-gerencial-vendas\Relatorio_Gerencial_Vendas.pbix`
+   `desafio-relatorio-gerencial-vendas\relatorio_Gerencial_Vendas.pbix`
 
 ## 1) Layout da Página 1
 

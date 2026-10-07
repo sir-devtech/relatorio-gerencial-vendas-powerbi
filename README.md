@@ -19,9 +19,21 @@ Criar um relatório gerencial de **2 páginas** com a sample **financials**, inc
 
 `dataset/Financial Sample.xlsx` → tabela `financials`
 
+## Estrutura do repositório
+
+```
+.
+├── dataset/
+│   └── Financial Sample.xlsx
+├── relatorio_Gerencial_Vendas.pbix
+├── README.md
+├── GUIA_PASSO_A_PASSO.md
+└── ENTREGA_DIO.md
+```
+
 ## Arquivo do projeto
 
-`Relatorio_Gerencial_Vendas.pbix`
+`relatorio_Gerencial_Vendas.pbix`
 
 ## Estrutura do relatório
 
